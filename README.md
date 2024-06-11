@@ -1,4 +1,4 @@
-<p style="text-align: justify;">Link website yohan -> <a href="https://yohann19.github.io/Y/Wyohan.html"> Home </a>
+<p style="text-align: justify;">Link website yohan -> <a href="https://yohann19.github.io/Y/Wyohan.html"> Home </a> </br>
 Di website ini hanya untuk belajar saja, masih banyak kekurangan 
 untuk saat ini nav terdiri dari Home, About, Projects, dan Call us. 
 Home -> Home terdiri dari halaman utama dari website yang saya buat.
