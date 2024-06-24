@@ -1,0 +1,45 @@
+.fot {
+    text-align: start;
+    background-color: #ced4da;
+    color: #495057;
+    padding: 1em 6em;
+}
+
+svg {
+    width: 30px;
+    padding-right: 10px;
+}
+
+
+#fot .link-underline {
+    color: #495057;
+}
+
+#fot .link-underline:hover {
+    color: #e9ecef;
+}
+
+#nav .nav-link:hover {
+    color: #ced4da;
+}
+
+.bg {
+    background-color: #e9ecef;
+}
+
+.navbar {
+    background-color: #e9ecef;
+}
+
+#down {
+    background-color: #e9ecef;
+}
+
+#down .dropdown-item:hover {
+    color: #ced4da;
+}
+
+.badge {
+    background-color: #495057;
+    color: #e9ecef;
+}

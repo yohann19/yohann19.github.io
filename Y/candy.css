@@ -1,0 +1,42 @@
+body {
+    background-color: #f5d9d5;
+    font-family: 'Nunito', sans-serif;
+}
+
+nav {
+    height: 60px;
+}
+
+#navy .fs-2 {
+    color: #ffc8dd;
+}
+
+#navy {
+    font-weight: 100;
+}
+
+#navy .nav-link {
+    color: white;
+    font-size: 1.5em;
+}
+
+#navy .nav-link:hover {
+    color: #ffc8dd;
+}
+
+#p {
+    color: #ef476f;
+}
+
+.mt {
+    margin-top: 30px;
+}
+
+span {
+    color: #ffafcc;
+}
+
+.navbar.scrolled {
+    background: #ffafcc;
+    transition: background 500ms;
+}

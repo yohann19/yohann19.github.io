@@ -1,0 +1,106 @@
+.fot {
+    text-align: start;
+    background-color: #ced4da;
+    color: #495057;
+    padding: 1em 6em;
+}
+
+#fot .link-underline {
+    color: #495057;
+}
+
+#fot .link-underline:hover {
+    color: #e9ecef;
+}
+
+.p-20 {
+    padding-top: 20px;
+}
+
+
+#Callus {
+    /* callus */
+    background-color: #adb5bd;
+    color: #e9ecef;
+    border-color: #e9ecef;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 19px;
+    padding: 30px;
+}
+
+#Callus .link-underline {
+    color: #495057;
+}
+
+#Callus .link-underline:hover {
+    color: #e9ecef;
+}
+
+#yo {
+
+    background-color: #6c757d;
+    color: #e9ecef;
+    border-color: #e9ecef;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 19px;
+    padding: 40px;
+}
+
+/* Candy */
+#yop {
+
+    background-color: #f4acb7;
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+#nav .nav-link:hover {
+    color: #ced4da;
+}
+
+#down {
+    background-color: #e9ecef;
+}
+
+#down .dropdown-item:hover {
+    color: #ced4da;
+}
+
+.bg {
+    background-color: #e9ecef;
+}
+
+svg {
+    width: 30px;
+    padding-right: 10px;
+}
+
+#candy {
+    background-color: #f2e9e4;
+}
+
+#candy:hover {
+    color: #f4acb7;
+    background-color: #e9ecef;
+}
+
+#pct {
+    width: 40%;
+    margin: calc(1%/2);
+    padding-left: 10px;
+}
+
+p {
+    text-align: justify;
+    padding-right: 10px;
+}
+
+.badge {
+    background-color: #495057;
+    color: #e9ecef;
+}
